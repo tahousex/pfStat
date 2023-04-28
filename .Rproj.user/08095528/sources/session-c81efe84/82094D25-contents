@@ -1,0 +1,34 @@
+\name{taxrate}
+\alias{taxrate}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{
+Tax Rate Function
+}
+\description{
+The first function is called taxrate() and it consists of two input arguements for your annual income and a percentage of 0-1 that is your State Sales tax
+}
+\usage{
+taxrate(income,taxpercentage)
+}
+\arguments{
+  \item{income}{
+The users annual income before taxes
+}
+  \item{taxpercentage}{
+The decimal of the user's state's tax rate
+}}
+\details{
+This function is for simple calculations only
+}
+\value{
+The value returned is the amount in USD paid in taxes for the income and tax percentage provided
+}
+\author{
+Tyler House
+}
+\note{
+Use Responsibly
+}
+\examples{
+taxrate(115000,0.85)
+}

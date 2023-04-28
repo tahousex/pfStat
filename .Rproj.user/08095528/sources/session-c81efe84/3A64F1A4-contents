@@ -1,0 +1,29 @@
+\name{taxrate}
+\alias{taxrate}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{
+Tax Rate Function
+}
+\description{
+The first function is called taxrate() and it consists of two input arguements for your annual income and a percentage of 0-1 that is your State Sales tax
+}
+\usage{
+taxrate(x)
+}
+\arguments{
+  \item{x}{
+The function accepts the user's income and their state's sales tax
+}
+}
+\details{
+This function is for simple calculations only
+}
+\value{
+The value returned is the amount in USD paid in taxes for the income and tax percentage provided
+}
+\author{
+Tyler House
+}
+\note{
+Use Responsibly
+}

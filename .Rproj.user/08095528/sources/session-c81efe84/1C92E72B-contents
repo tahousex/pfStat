@@ -1,0 +1,16 @@
+#Project Functions Test
+
+library(pfStat)
+
+equity(550000,340000,0)
+
+personalbudget(230000)
+
+ROI(95000,500000)
+
+taxableincome(500000,3500,3500)
+
+taxrate(75000,0.75)
+
+timeROI(500000,400000,20000,18)
+
