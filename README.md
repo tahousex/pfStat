@@ -1,6 +1,6 @@
 # pfStat
-
 pfStat: Personal Finance Statistics for Dummies
+LIS4370: R Programming Final Project
 
 What is pfStat?
 
