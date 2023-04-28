@@ -77,7 +77,7 @@ ROI <- function(netincome,costofinvestment){
   
   roi <- (netincome / costofinvestment) * 100
   
-  print(paste("$", roi))
+  print(paste("%", roi))
   
 }
 
