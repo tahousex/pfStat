@@ -1,5 +1,7 @@
 # pfStat
+
 pfStat: Personal Finance Statistics for Dummies
+
 What is pfStat?
 
 This package is entitled pfStat, and is a small package with a few functions dedicated to helping a user calculate different personal finance metrics. The functions include the ability to derive Returns on Interest, Tax Rates based on Income, Taxable Income and Home Equity, and the purpose behind choosing these kinds of metrics was to emphasize the importance of knowing where one puts their wallet. It goes without being entirely sanctimonious that the dollar does not go as far as it once did, and knowing where one stands amongst their own finances and parameters in the financial world will assist them in making more calculated decisions. 
